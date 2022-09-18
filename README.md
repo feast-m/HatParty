@@ -11,6 +11,6 @@ Missing:
 
 Config.yml contains all the keys for configuration
 
-Use /init endpoint for populating the initial hats in mongo
-Use /start?hatsRequested= for creating a party with specific number of hats
-Use /stop?partyId= for stoping a party and releasing hats
+* Use /init endpoint for populating the initial hats in mongo
+* Use /start?hatsRequested= for creating a party with specific number of hats
+* Use /stop?partyId= for stoping a party and releasing hats
