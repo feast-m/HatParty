@@ -1,0 +1,4 @@
+MongoConnectionString: <insert-your-connection-string>
+CleaningTimeInHours: 1
+MaxHatsPerParty: 4
+InitNumberOfHats: 50
